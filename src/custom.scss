@@ -1,0 +1,20 @@
+@import "~bootstrap/scss/bootstrap";
+
+$theme-colors: (
+  "primary": #0d6efd,
+  "secondary": #6c757d,
+  "success": #198754,
+  "info": #0dcaf0,
+  "warning": #ffc107,
+  "danger": #dc3545,
+  "light": #f8f9fa,
+  "dark": #212529
+);
+input::placeholder {
+  color: rgb(255, 255, 255)!important;
+  font-size: 12px!important; /* Imposta il colore del placeholder su bianco con una trasparenza del 50% */
+}
+$body-bg: $black;
+$body-color: $white;
+
+@import "~bootstrap/scss/bootstrap";
