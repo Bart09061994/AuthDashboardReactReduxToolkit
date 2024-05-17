@@ -1,2 +1,8 @@
-# AuthDashboardReactReduxToolkit
-Il progetto "Authentication System with Redux Toolkit and Local Storage" è un'applicazione web che offre funzionalità di registrazione, accesso (login), gestione di utenti e CRUD utilizzando React con Redux Toolkit. Supporta due modalità di gestione dei dati utente: una utilizzando un'API e l'altra memorizzando i dati nel localStorage del browser.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
